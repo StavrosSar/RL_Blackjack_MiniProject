@@ -8,8 +8,7 @@ A Q-learning agent trained to play Blackjack using the Gym environment.
 
 1. [Introduction]
 2. [Installation]
-3. [Results]
-4. [Evaluation]
+3. [Evaluation]
 
 **Introduction**
 --------------
@@ -20,14 +19,6 @@ This project implements a Q-learning agent to play Blackjack, a popular card gam
 --------------
 
 No installation required! This project is a Python ipynb file that can be run directly.
-
-
-**Results**
----------
-
-Here's a plot showing the average rewards earned by the agent over time:
-
-![Average Rewards](./results/average_rewards.png)
 
 **Evaluation**
 ------------
