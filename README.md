@@ -6,9 +6,9 @@ A Q-learning agent trained to play Blackjack using the Gym environment.
 **Table of Contents**
 --------------------
 
-1. [Introduction]
-2. [Installation]
-3. [Evaluation]
+1. Introduction
+2. Installation
+3. Evaluation
 
 **Introduction**
 --------------
