@@ -6,12 +6,11 @@ A Q-learning agent trained to play Blackjack using the Gym environment.
 **Table of Contents**
 --------------------
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Results](#results)
-5. [Evaluation](#evaluation)
-6. [References](#references)
+1. [Introduction]
+2. [Installation]
+3. [Results](#results)
+4. [Evaluation](#evaluation)
+5. [References](#references)
 
 **Introduction**
 --------------
@@ -21,16 +20,8 @@ This project implements a Q-learning agent to play Blackjack, a popular card gam
 **Installation**
 --------------
 
-No installation required! This project is a Python script that can be run directly.
+No installation required! This project is a Python ipynb file that can be run directly.
 
-**Usage**
-------
-
-To run the agent, simply execute the `blackjack_qlearning.py` script:
-```bash
-python blackjack_qlearning.py
-```
-This will train the agent for 50,000 episodes and evaluate its performance.
 
 **Results**
 ---------
