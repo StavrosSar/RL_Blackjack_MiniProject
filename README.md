@@ -8,9 +8,8 @@ A Q-learning agent trained to play Blackjack using the Gym environment.
 
 1. [Introduction]
 2. [Installation]
-3. [Results](#results)
-4. [Evaluation](#evaluation)
-5. [References](#references)
+3. [Results]
+4. [Evaluation]
 
 **Introduction**
 --------------
@@ -40,22 +39,3 @@ The agent was evaluated by playing 1,000 episodes and recording the number of wi
 | Wins | 420 |
 | Losses | 280 |
 | Draws | 300 |
-
-**References**
-------------
-
-* [Gym: A Toolkit for Reinforcement Learning](https://gym.openai.com/)
-* [Q-Learning Algorithm](https://en.wikipedia.org/wiki/Q-learning)
-* [Blackjack Rules](https://en.wikipedia.org/wiki/Blackjack)
-
-**License**
----------
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-**Author**
---------
-
-[Your Name]
-```
-You can copy-paste this into your README file and customize it to fit your project's needs.
