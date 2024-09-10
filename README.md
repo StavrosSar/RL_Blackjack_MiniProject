@@ -1,7 +1,7 @@
 # RL_Blackjack_MiniProject
 ===========================
 
-A Q-learning agent trained to play Blackjack using the Gym environment.
+A Q-learning agent trained to play Blackjack using the Gym environment. It's a simple Reinforcement Learning problem.
 
 **Table of Contents**
 --------------------
